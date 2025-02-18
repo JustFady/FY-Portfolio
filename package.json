@@ -1,6 +1,6 @@
 {
   "name": "fy-portfolio",
-  "homepage": "https://fadyyoussef.dev", // custom domain
+  "homepage": "https://fadyyoussef.dev",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -18,6 +18,6 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
     "gh-pages": "^6.3.0",
-    "vite": "^4.0.0"
+    "vite": "^4.3.9"
   }
 }
